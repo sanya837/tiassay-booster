@@ -4,7 +4,7 @@
 
 ## 👑 Разработчик
 * **Автор:** tiassay
-* **Профиль:** [guns.lol/tiassay](https://guns.lol)
+* **Профиль:** [guns.lol/tiassay](https://guns.lol/tiassay)
 
 ## 🎮 Поддерживаемые игры
 * **CS2** & **Dota 2** & **Rust** (через Steam)
